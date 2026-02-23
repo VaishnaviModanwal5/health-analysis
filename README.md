@@ -58,13 +58,13 @@ The following data cleaning steps were performed:
 ##  Visualizations Used
 Different types of graphs were used:
 
-- ✅ Histograms → To see distributions
-- ✅ Boxplots → To detect outliers
-- ✅ Bar Charts → To compare categories
-- ✅ Pie Charts → To show proportions
-- ✅ Line Charts → To see trends
-- ✅ Heatmap → To analyze correlations
-- ✅ Waffle Chart → To show category distribution
+-  Histograms → To see distributions
+-  Boxplots → To detect outliers
+-  Bar Charts → To compare categories
+-  Pie Charts → To show proportions
+-  Line Charts → To see trends
+-  Heatmap → To analyze correlations
+-  Waffle Chart → To show category distribution
 
 ---
 
@@ -114,9 +114,3 @@ Possible enhancements:
 - `README.md`
 
 ---
-
-##  How to Run
-
-1. Install required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn pywaffle
